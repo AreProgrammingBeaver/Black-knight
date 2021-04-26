@@ -1,0 +1,141 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.450; Version 2004; 64bit' Language: 'ru' Physical Memory: 16329 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Unity\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/MyUnityGames/Black knight
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64531
+Successfully changed project path to: E:/MyUnityGames/Black knight
+E:/MyUnityGames/Black knight
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 54.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path E:/Unity/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/MyUnityGames/Black knight/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'E:/Unity/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Unity/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001282 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 45.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.286 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001157 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 40.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1956 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.9 MB.
+System memory in use after: 89.8 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2398.
+Total: 3.458000 ms (FindLiveObjects: 0.385600 ms CreateObjectMapping: 0.144100 ms MarkObjects: 2.757900 ms  DeleteObjects: 0.168900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/byanov 1.png
+  artifactKey: Guid(ce430fb77dada43418c92c3d20f170ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/byanov 1.png using Guid(ce430fb77dada43418c92c3d20f170ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13cfb742374bd14162bc8ea758405bd8') in 0.211752 seconds
+  Import took 0.215850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/byanov.png
+  artifactKey: Guid(ab3ca92524146864ca6a27b1b3ae929c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/byanov.png using Guid(ab3ca92524146864ca6a27b1b3ae929c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '080a4e794211ade163bd588f410ab877') in 0.009498 seconds
+  Import took 0.013965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/karta4.png
+  artifactKey: Guid(cdc8f12f5033d31409d9b92d23120628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/karta4.png using Guid(cdc8f12f5033d31409d9b92d23120628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be4bd969bfc4806cba9422062b89958') in 0.022666 seconds
+  Import took 0.026655 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 54.4 MB.
+System memory in use after: 54.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2406.
+Total: 4.173100 ms (FindLiveObjects: 0.324600 ms CreateObjectMapping: 0.175800 ms MarkObjects: 3.525300 ms  DeleteObjects: 0.146000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.042580 seconds.
+  path: Assets/Sprites/karta4.png
+  artifactKey: Guid(cdc8f12f5033d31409d9b92d23120628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/karta4.png using Guid(cdc8f12f5033d31409d9b92d23120628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae103dfef8898692b03fb454804d70be') in 0.021037 seconds
+  Import took 0.030996 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001679 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.013 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1949 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2410.
+Total: 3.716900 ms (FindLiveObjects: 0.512800 ms CreateObjectMapping: 0.119200 ms MarkObjects: 2.944400 ms  DeleteObjects: 0.138800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
